@@ -1,0 +1,17 @@
+
+// Project 8
+// Author Merchant Hero X
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#indluce <string.h>
+
+
+int main (void) {
+
+
+
+ return 0;
+ 
+ }
